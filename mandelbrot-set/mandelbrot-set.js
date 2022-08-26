@@ -147,20 +147,3 @@ function render() {
 	gl.clear(gl.COLOR_BUFFER_BIT);
 	gl.drawArrays(gl.POINTS, 0, level.length);
 }
-
-// const name = "Meesum";
-
-// const show = function () {
-//     const name = "Meesum Ali";
-
-//     if (true) {
-//         var _name = "Meesum Ali";
-//         const name = "Meesum Ali Qazalbash";
-
-//         console.log(name);
-//     }
-
-//     console.log(_name);
-// };
-
-// document.querySelector(".button", show);
